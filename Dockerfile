@@ -1,2 +1,2 @@
 FROM alpine
-CDM ["echo", "Hello Docker Hub"]
+CMD ["echo", "Hello Docker Hub"]
